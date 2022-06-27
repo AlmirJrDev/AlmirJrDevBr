@@ -77,14 +77,14 @@ li {
 }
 
 .link-lk {
-  width: 127 px;
+  width: 100px;
   position: absolute;
-  margin-top: 230px;
+  margin-top: 240px;
   margin-left: -370px;
 }
 
 .link-lk:hover {
-  filter: drop-shadow(0 0 49px #fff);
+  filter: drop-shadow(0 0 20px #fff);
   transition: ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
