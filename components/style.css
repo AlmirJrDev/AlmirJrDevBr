@@ -77,10 +77,11 @@ li {
 }
 
 .link-lk {
-  width: 100px;
+  width: 135px;
   position: absolute;
-  margin-top: 240px;
+  margin-top: 223px;
   margin-left: -370px;
+  
 }
 
 .link-lk:hover {
